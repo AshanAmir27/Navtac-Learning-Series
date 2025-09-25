@@ -1,0 +1,21 @@
+let isAdmin = true;
+let userName = "JohnDoe";
+let user_age = 30;
+const PI = 3.14159;
+var userEmail = "ashanamir65@gmail.com";
+let $userAddress = "123 Main St";
+let _userPhone = "555-1234";
+let user2 = "JaneDoe";
+let firstName = "John";
+let lastName = "Doe";
+let fullName = firstName + " " + lastName;
+let greeting = `Hello, ${fullName}! Welcome to our website.`;
+//invalid variable names
+// let 2user = "Invalid"; // starts with a number
+// let user-name = "Invalid"; // contains a hyphen
+// let user name = "Invalid"; // contains a space
+// let var = "Invalid"; // uses a reserved keyword
+// let user@name = "Invalid"; // contains a special character
+// let user.name = "Invalid"; // contains a dot
+// let user#name = "Invalid"; // contains a special character
+// let user%name = "Invalid"; // contains a special character

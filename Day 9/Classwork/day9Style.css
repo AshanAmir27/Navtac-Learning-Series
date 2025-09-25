@@ -1,0 +1,39 @@
+/* Event demo section */
+#event-section {
+    margin-top: 30px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+#event-section h2 {
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Event buttons/inputs container */
+#event-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* Style inputs to match buttons */
+#event-buttons input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex: 1;
+    min-width: 180px;
+}
+
+#event-buttons form {
+    display: flex;
+    gap: 10px;
+}
+
+#event-buttons form input {
+    flex: 1;
+}
